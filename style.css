@@ -9,3 +9,7 @@ input {
     position: relative;
     z-index: 1;
 }
+
+.wrapper__ticket {
+    margin-top: 50px;
+}
